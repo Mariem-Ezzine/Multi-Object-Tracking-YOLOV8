@@ -1,4 +1,4 @@
-# ⚡ YOLOv8 + BYTETrack Multi-Object Tracking
+# YOLOv8 + BYTETrack Multi-Object Tracking
 
 Real-time multi-object tracking based on:
 - YOLOv8 detector
@@ -12,7 +12,7 @@ Real-time multi-object tracking based on:
 
 ---
 
-### ▶️ Run
+### Run
 ```bash
 python byte_tracker.py
 
@@ -20,7 +20,7 @@ You will select:
 ✅ Input video
 ✅ Experiment name
 
-🧪 Metrics (Simulated Ground Truth)
+Metrics (Simulated Ground Truth)
 
 IoU
 
@@ -32,7 +32,7 @@ Number of tracked objects
 
 Metrics are for demonstration purposes only (no true GT).
 
-📁 Output Structure
+Output Structure
 
 Inside: tracking_results_<experiment>/
 
